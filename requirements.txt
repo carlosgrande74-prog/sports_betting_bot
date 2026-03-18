@@ -3,3 +3,4 @@ requests
 scipy
 streamlit
 altair==4.2.2
+pure-python-imghdr
